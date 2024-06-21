@@ -1,0 +1,170 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+/* HEADER */
+
+.main_header {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+}
+
+.header {
+     margin: 0;
+     padding: 1rem;
+     width: 150vh;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+   }
+   
+   .logo {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin: 0;
+     padding: 0;
+   }
+   
+   .legenx_logo {
+     width: 10rem;
+   }
+   
+   .choices {
+     display: flex;
+     align-items: center;
+     padding-left: 2rem;
+     padding-right: 2rem;
+   }
+   
+   .buttons {
+     color: aliceblue;
+     text-decoration: none;
+     font-weight: 900;
+     padding-left: 2rem;
+     padding-right: 2rem;
+     transition: all ease .2s;
+     font-family: urbanist;
+   }
+   
+   /* HEADER ANIMATIONS */
+   
+   .buttons:hover {
+     font-size: 2rem;
+     transform: scale(1.2);
+         filter: drop-shadow(0 0 10px white);
+   }
+
+   
+
+/* BODY */
+
+.hero {
+     height: 100dvh;
+     width: 100dvw;
+     position: relative;
+     background-image: linear-gradient(to right top, hsla(0, 0%, 3%, 0.932), #0b2903);
+     position: absolute;
+     z-index: -1;
+     right: 0;
+     top: 0;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+}
+
+.fluid {
+     position: relative;
+     position: absolute;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     z-index: -2;
+     opacity: 70%;
+     right: 0;
+     top: 0;
+     height: 100dvh;
+     width: 100dvw;
+     filter: blur(5px);
+     -webkit-filter: blur(5px);
+}
+
+
+/* CONTENT */
+
+.box {
+     display: flex;
+     flex-direction:row;
+     padding: 30rem;
+}
+
+.title {
+     color: rgb(255, 250, 239);
+     font-size: 5vw;
+     font-family: Anton;
+     font-weight: 900;
+     font-style: italic;
+     margin: 0;
+     color: #fff;
+  text-shadow:
+    0 0 7px #fff,
+    0 0 42px rgb(13, 247, 25);
+    padding-top: 10rem;
+}
+
+.role_box {
+     display: flex;
+     flex-direction: row;
+}
+
+.controller {
+     font-family: Urbanist;
+     font-size: 30px;
+     color: rgb(255, 250, 239);
+     font-style: italic;
+     font-weight: 800;
+     margin: 0;
+     text-shadow:
+     0 0 7px #fff,
+     0 0 42px rgb(0, 255, 42);
+}
+
+.role {
+     width: 2rem;
+     padding-right: 10px;
+}
+
+.info {
+     font-family: Urbanist;
+     font-size: 30px;
+     color: rgb(255, 250, 239);
+     font-style: italic;
+     font-weight: 500;
+     margin: 0;
+     text-shadow:
+     0 0 7px #fff,
+     0 0 42px rgb(70, 255, 14);
+}
+
+.viper_image {
+     width: 60rem;
+}
+
+.skills {
+     display: flex;
+     flex-direction: column;
+}
+
+.utils {
+     padding-top: 5rem;
+}
+
+.viper_background {
+     z-index: -3;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     position: absolute;
+}
+
