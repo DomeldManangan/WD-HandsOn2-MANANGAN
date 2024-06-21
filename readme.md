@@ -6,14 +6,14 @@
 <div align="center">
   <a href="https://github.com/DomeldManangan">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/LegenX Logo.png" alt="LegenX" width="130" height="100">
+    <img src="./assets/img/LegenX Logo.png" alt="LegenX" width="130px" height="100px">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">WD-HandsOn2-MANANGAN</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  About Hero and Cards.
+  About Hero and Cards. "Cards" and the "hero" section are two often utilized web design elements that improve a website's usability and aesthetic appeal. As a major introduction or focus point, the hero section typically shows boldly at the top of a webpage. It's normally the first thing customers see when they visit the website and consists of a sizable background or image with text or call-to-action buttons.
 </div>
 
 <br />
