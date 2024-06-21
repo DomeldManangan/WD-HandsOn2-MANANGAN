@@ -115,4 +115,4 @@ WD-ProjectName
 | Bootstrap | Icons | https://getbootstrap.com |
 | Pexels | Wallpaper | https://www.pexels.com |
 | Valorant | Info | https://valorant.fandom.com/wiki/VALORANT_Wiki |
-| Freepik | Fluid Background | https://www.freepik.com |
+| Freepik | Fluid Background & Icons | https://www.freepik.com |
