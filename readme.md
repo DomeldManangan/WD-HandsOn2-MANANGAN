@@ -64,7 +64,6 @@ The project shows how to code HTML and CSS for various Hero and Card types, incl
 <!-- The following are just sample -->
 - Static hero designs
 - Static card designs
-- Animated hero designs
 - Animated card designs
 
 ### Technology
